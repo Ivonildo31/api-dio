@@ -12,3 +12,4 @@ Api de Consulta ao Diário Oficial
   - sort: ordenação
   
  ## Rotas
+ - **GET /search/{palavrachave}**: retorna o DIO atual basedo em uma palavra chave
