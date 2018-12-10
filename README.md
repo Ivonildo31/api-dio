@@ -1,5 +1,5 @@
 # api-dio
-Api de Consulta ao DIO
+Api de Consulta ao Diário Oficial
 
 ## Funcionalidades
 
@@ -10,3 +10,5 @@ Api de Consulta ao DIO
   - dateMax: data final
   - pageNumber: número da página
   - sort: ordenação
+  
+ ## Rotas
