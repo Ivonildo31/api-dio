@@ -13,3 +13,4 @@ Api de Consulta ao Diário Oficial
   
  ## Rotas
  - **GET /search/{palavrachave}**: retorna o DIO atual basedo em uma palavra chave
+ - **GET /latest/**: retorna os últimos Dios
